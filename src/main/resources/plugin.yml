@@ -1,0 +1,6 @@
+name: DomFly
+version: '2.0.0'
+main: com.wunanc.domFly.DomFly
+api-version: '1.21'
+authors: [ Hotguo ]
+description: Dominion Territory Flight Add-on Plugin.
